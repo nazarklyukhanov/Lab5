@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<collection>
+	<musicbands>
+		<musicband id="6206751" name="ИТМО РОК" coordinates_x="0.0" coordinates_y="0.0" creationDate="2024-05-02T21:25:59.339141800" numberOfParticipants="3" albumsCount="2" genre="PROGRESSIVE_ROCK" label_sales="1"/>
+		<musicband id="2152508" name="ИТМО ВОКАЛ" coordinates_x="0.0" coordinates_y="0.0" creationDate="2024-05-02T21:26:41.745346900" numberOfParticipants="123123" albumsCount="3213" genre="PROGRESSIVE_ROCK" label_sales="123"/>
+		<musicband id="2152507" name="ИТМО Нью ДЖазик" coordinates_x="0.0" coordinates_y="0.0" creationDate="2024-05-02T22:07:29.986927" numberOfParticipants="123" albumsCount="123" genre="PROGRESSIVE_ROCK" label_sales="123"/>
+		<musicband id="5580873" name="ИТМО Нью Рок" coordinates_x="123.0" coordinates_y="321.0" creationDate="2024-05-02T22:10:25.241103600" numberOfParticipants="123" albumsCount="321" genre="JAZZ" label_sales="45"/>
+	</musicbands>
+</collection>
